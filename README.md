@@ -1,3 +1,2 @@
-- 🌱 I’m currently learning the C++ Programming Language, Unreal Engine, and 3D modeling.
-- 🎮 I'm intrested in making games ALONE! That means don't pick my idea up and develop it. I want to be a one-man-band in game development. By one-man-band, I mean I want to do 
-everything in the project, with no one else working with me.
+Whelp. This account was abandoned for several months, so might as well revive it and change a few things.
+Since I don't know what to say in this, I'm just going to have this as the only change for now.
