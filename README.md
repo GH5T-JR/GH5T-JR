@@ -4,4 +4,4 @@ Codeberg = https://codeberg.org/gh5tbusters (I wish more people used this instea
 Tomorrow morning on de plane \
 No banana make you go insane \
 Floating back to Busytown \
-No banana make you want to frown \
+No banana make you want to frown
